@@ -1,0 +1,11 @@
+﻿timeslot_id,day,period_index,period_name
+T001,1,1,Morning
+T002,1,2,Noon
+T003,2,1,Morning
+T004,2,2,Noon
+T005,3,1,Morning
+T006,3,2,Noon
+T007,4,1,Morning
+T008,4,2,Noon
+T009,5,1,Morning
+T010,5,2,Noon
